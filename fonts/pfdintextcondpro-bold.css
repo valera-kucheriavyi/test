@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "PF Din Text Cond Pro";
+    src: url("pfdintextcondpro-bold.eot"); /* IE9 */
+    src: url("pfdintextcondpro-bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("pfdintextcondpro-bold.woff") format("woff"), /* chrome, firefox */
+    url("pfdintextcondpro-bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("pfdintextcondpro-bold.svg#PF Din Text Cond Pro") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
